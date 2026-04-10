@@ -223,29 +223,9 @@ Bot personalizado con registro automatizado de ventas y gestión comercial.
 
 ---
 
-## 🐍 Contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisc0230/luisc0230/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisc0230/luisc0230/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/luisc0230/luisc0230/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🏆 Certificaciones & Logros
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luisc0230&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
-
-</div>
-
-<br/>
 
 <table align="center">
 <tr>
